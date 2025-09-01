@@ -16,6 +16,6 @@ https://dylphiiee.github.io/MemoriesBooks-HTML/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/MemoriesBooks.git
+   git clone https://github.com/Dylphiiee/MemoriesBooks-HTML/tree/main?tab=readme-ov-file.git
 2. Install this repository:
    https://github.com/username/MemoriesBooks.git
